@@ -1,0 +1,15 @@
+# LaTeX sources and build files (only the compiled CV PDF is published)
+*.tex
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Editor / OS
+.DS_Store
+*~
